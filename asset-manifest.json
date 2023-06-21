@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ChatApp/static/css/main.39ad3da3.css",
+    "main.js": "/ChatApp/static/js/main.bbbab195.js",
+    "static/media/userIcon.png": "/ChatApp/static/media/userIcon.1e8aadd01a15a2f2ad05.png",
+    "static/media/background.png": "/ChatApp/static/media/background.9676bdb4733069ce5d9b.png",
+    "static/media/ugurChat.png": "/ChatApp/static/media/ugurChat.06b187ded8eb4152d3d2.png",
+    "static/media/ugurChat_white.png": "/ChatApp/static/media/ugurChat_white.ee0ca7d67efa45c879b4.png",
+    "index.html": "/ChatApp/index.html",
+    "main.39ad3da3.css.map": "/ChatApp/static/css/main.39ad3da3.css.map",
+    "main.bbbab195.js.map": "/ChatApp/static/js/main.bbbab195.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39ad3da3.css",
+    "static/js/main.bbbab195.js"
+  ]
+}
